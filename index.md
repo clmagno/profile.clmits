@@ -7,9 +7,7 @@ layout: default
 
 [Here is our Facebook Page](.www.facebook.com/clmits).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+We at CLMITS provide high end software development and training services.
 
 # Header 1
 
