@@ -5,7 +5,7 @@ layout: default
 **This is the beta page of CL Magno I.T. Solutions**
 <!-- , _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+[Here is our Facebook Page](.www.facebook.com/clmits).
 
 There should be whitespace between paragraphs.
 
