@@ -5,7 +5,7 @@ layout: default
 **This is the beta page of CL Magno I.T. Solutions**
 <!-- , _italic_, or ~~strikethrough~~. -->
 
-[Here is our Facebook Page](www.facebook.com/clmits)
+[Here is our Facebook Page](www.facebook.com/clmits).
 
 We at CLMITS provide high end software development and training services.
 
