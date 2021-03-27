@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**This is the beta page of CL Magno I.T. Solutions**
+<!-- , _italic_, or ~~strikethrough~~. -->
 
 [Link to another page](./another-page.html).
 
